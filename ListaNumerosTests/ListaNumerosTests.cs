@@ -20,5 +20,11 @@ namespace ListaNumerosTests
       var exception = Assert.Throws<ArgumentException>(() => ListaNumeros.ListaNumeros.Juego(2, 1));
       Assert.That(exception, Has.Message.EqualTo("Numero1 mayor que Numero2 no permitido"));
     }
+    [Test]
+    public void WhenNumber1_1_And_Number2_1_Return2() {
+      var result = ListaNumeros.ListaNumeros.Juego(1, 1);
+      List<int> expected = new List<int> { 2 };
+      Assert.AreEqual(expected, result);
+    }
   }
 }
