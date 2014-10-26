@@ -22,9 +22,12 @@ namespace ListaNumerosTests
     }
     [Test]
     public void WhenNumber1_1_And_Number2_1_Return2() {
-      var result = ListaNumeros.ListaNumeros.Juego(1, 1);
-      List<int> expected = new List<int> { 2 };
-      Assert.AreEqual(expected, result);
+      Assert.AreEqual(new List<int> { 2 }, ListaNumeros.ListaNumeros.Juego(1, 1));
+    }
+    [Test]
+    public void WhenNumber1_1_And_Number2_2_Return2()
+    {
+      Assert.AreEqual(new List<int> { 2 }, ListaNumeros.ListaNumeros.Juego(1, 2));
     }
   }
 }
