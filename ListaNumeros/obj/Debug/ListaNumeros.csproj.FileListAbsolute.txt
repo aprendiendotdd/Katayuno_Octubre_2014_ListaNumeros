@@ -1,0 +1,4 @@
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumeros\bin\Debug\ListaNumeros.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumeros\bin\Debug\ListaNumeros.pdb
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.pdb

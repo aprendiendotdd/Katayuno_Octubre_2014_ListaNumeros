@@ -1,0 +1,9 @@
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\ListaNumerosTests.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\ListaNumerosTests.pdb
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\nunit.framework.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\nunit.framework.xml
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\obj\Debug\ListaNumerosTests.csprojResolveAssemblyReference.cache
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\obj\Debug\ListaNumerosTests.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\obj\Debug\ListaNumerosTests.pdb
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\ListaNumeros.dll
+c:\users\fernanj\documents\visual studio 2010\Projects\SolucionListaNumeros\ListaNumerosTests\bin\Debug\ListaNumeros.pdb
