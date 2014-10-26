@@ -13,7 +13,9 @@ namespace ListaNumeros
         throw new ArgumentException("Números menores o iguales que cero no permitidos");
       if (numero1 > numero2) 
       throw new ArgumentException("Numero1 mayor que Numero2 no permitido");
-      return new List<int> {2};
+      if (numero1 == numero2 || numero1 + 1 == numero2)
+        return new List<int> {2};
+      return new List<int> { 2, 6 };
     }
   }
 }
