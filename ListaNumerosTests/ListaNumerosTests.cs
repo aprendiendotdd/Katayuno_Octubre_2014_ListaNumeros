@@ -34,5 +34,10 @@ namespace ListaNumerosTests
     {
       Assert.AreEqual(new List<int> { 2, 6 }, ListaNumeros.ListaNumeros.Juego(1, 3));
     }
+    [Test]
+    public void WhenNumber1_1_And_Number2_4_Return_2_6()
+    {
+      Assert.AreEqual(new List<int> { 2, 6 }, ListaNumeros.ListaNumeros.Juego(1, 4));
+    }
   }
 }
