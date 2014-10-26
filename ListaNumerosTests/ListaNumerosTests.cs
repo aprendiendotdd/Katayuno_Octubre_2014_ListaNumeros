@@ -1,9 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using NUnit.Framework;
-using ListaNumeros;
 
 namespace ListaNumerosTests
 {
@@ -43,6 +40,11 @@ namespace ListaNumerosTests
     public void WhenNumber1_1_And_Number2_5_Return_2_6_10()
     {
       Assert.AreEqual(new List<int> { 2, 6, 10 }, ListaNumeros.ListaNumeros.Game(1, 5));
+    }
+    [Test]
+    public void WhenNumber1_1_And_Number2_11_Return_2_6_10_14_18_22()
+    {
+      Assert.AreEqual(new List<int> { 2, 6, 10, 14, 18, 22 }, ListaNumeros.ListaNumeros.Game(1, 11));
     }
   }
 }
