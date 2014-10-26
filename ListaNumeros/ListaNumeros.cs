@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using System.Collections.Generic;
 
 namespace ListaNumeros
@@ -14,10 +13,7 @@ namespace ListaNumeros
       throw new ArgumentException("Numero1 mayor que Numero2 no permitido");
       var listInt = new List<int>();
       for (int i = numero1; i <= numero2; i++)
-      {
-        if (i % 2 != 0)
-          listInt.Add(i * 2);
-      }
+        if (i % 2 != 0) listInt.Add(i * 2);
       return listInt;
     }
   }
